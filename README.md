@@ -22,18 +22,18 @@
 
 
 <div align="center"> 
-   <img src="https://streak-stats.demolab.com?user=arpittyagi102&theme=gruvbox-duo&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittyagi102&show_icons=true&bg_color=00000000&hide=contribs&theme=codeSTACKr&text_bold=false&hide_border=true&card_width=350" alt="Github Stats">
+   <img src="https://streak-stats.demolab.com?user=gulabchan&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulabchan&show_icons=true&bg_color=00000000&hide=contribs&text_bold=false&hide_border=true&card_width=350" alt="Github Stats">
 </div>
 <br>
 
 ## Projects :-
 
 
-| [LinkUp - a chatting application](https://github.com/arpittyagi102/LinkUp)  | [Humari Dukan - an e-commerce website](https://github.com/arpittyagi102/Humari-Dukan)|
+| [LinkUp - a chatting application](https://github.com/gulabchan/LinkUp)  | [Humari Dukan - an e-commerce website](https://github.com/gulabchan/Humari-Dukan)|
 | :--------------------------:       | :-------------------------: |
 | ![Linkup](demo1.gif)               |  ![humaridukan](Humaridukan.gif) |
-| [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek) | [SpeedyKeys - A typing practice website](https://github.com/arpittyagi102/speedykeys) |
+| [Hide and Seek - Web game](https://github.com/arpittyagirocks/HideandSeek) | [SpeedyKeys - A typing practice website](https://github.com/gulabchan/speedykeys) |
 | <img src="HideandSeek.gif" width="400px"> | <img src="SpeedyKeys.gif" width="400px"> |
 
 
