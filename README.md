@@ -1,9 +1,9 @@
 
 
-![logo](https://github.com/gulabchan/gulabchan/blob/main/Github.Banner.png)
+![logo](https://github.com/gulabchan/gulabchan/blob/main/hero-video.jpg)
 <h1 align="center">Hi 👋, I'm Gulabchand Kumar Gupta</h1>
 <h3 align="center">A passionate Aspiring Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="hero-video.jpg">
+<img align="right" alt="coding" width="400" src="h">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabchan&label=Profile%20views&color=0e75b6&style=flat" alt="gulabchan" /> </p>
 
