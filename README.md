@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://gulabchand-portfolio-54f60c.netlify.app/](https://gulabchand-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gulabchand-portfolio-54f60c.netlify.app/](https://gulabchandg-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://wordpress.com/view/gulabblogg.wordpress.com](https://wordpress.com/view/gulabblogg.wordpress.com)
 
