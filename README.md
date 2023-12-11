@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulabchan&label=Profile%20views&color=0e75b6&style=flat" alt="gulabchan" /> </p>
 
-- 🔭 I’m currently working on **Youtube-clone**
+- 🔭 I’m currently working on **MERN STACK **
 
-- 🌱 I’m currently learning **PHP and Laravel**
+- 🌱 I’m currently learning **REACT NATIVE,AND MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://gulabchand-portfolio-54f60c.netlify.app/](https://gulabchandg-portfolio.netlify.app/)
 
